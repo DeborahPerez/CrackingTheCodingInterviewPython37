@@ -2,10 +2,9 @@
 #           USAGE:
 #               python3.7 isUnique.py
 #           DESCRIPTION:
-#               Attempt to connect to NETAPP server through HTTPS for C-mode
-#               (Cluster-mode) or 7-mode, make appropriate snap mirror API
-#               calls to the NAS Array, save API call results as an xml file,
-#               parse xml file for desired attributes, and save to a csv file
+#           1.1 Is Unique
+#               Implement an algorithm to determine if a string has all unique
+#               characters.
 #           Input:
 #               String
 #           Output:
