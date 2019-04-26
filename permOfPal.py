@@ -11,10 +11,10 @@
 #           Input:
 #               string
 #           Output:
-#               newString or None
+#               Boolean
 # -----------------------------------------------------------------------------
 # CREATED BY:   Deborah Perez
-# VERSION:      20190318
+# VERSION:      20190426
 ###############################################################################
 # 1.4 Palindrome Permutation: Given a string, write a
 # function to check if it is a permutation of a palindrome.
