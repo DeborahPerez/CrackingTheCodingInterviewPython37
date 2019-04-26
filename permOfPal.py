@@ -11,7 +11,7 @@
 #           Input:
 #               string
 #           Output:
-#               Boolean
+#               boolean
 # -----------------------------------------------------------------------------
 # CREATED BY:   Deborah Perez
 # VERSION:      20190426
